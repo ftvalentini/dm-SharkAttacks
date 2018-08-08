@@ -1,0 +1,57 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black;  ">Variable</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Tipo</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Descripcion</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Estadistica</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">Year</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Min.   :1543   / 1st Qu.:1944   / Median :1975   / Mean   :1966   / 3rd Qu.:2003   / Max.   :2016</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">Type</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Boating     : 302   / Invalid     : 512   / Provoked    : 539   / Sea Disaster: 214   / Unprovoked  :4205</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">sexo</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">F      : 557   / M      :4660   / unknown: 555</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">region</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">AUSTRALIA   :1246   / other       :1888   / SOUTH AFRICA: 555   / unknown     :  37   / USA         :2046</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">fatal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">no     :4174   / unknown: 118   / yes    :1480</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">horario</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">AM     : 876   / PM     :1758   / unknown:3138</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">edad</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Adult  :2386   / Old    : 228   / unknown:2553   / Young  : 605</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; border-bottom: double; ">year_bins</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Nominal</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Hola</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">[2000,2010):1019   / [2010,2016]: 749   / [1960,1970): 618   / [1990,2000): 568   / [1950,1960): 463   / [1980,1990): 434   / (Other)    :1921</td>
+</tr>
+</table>
+

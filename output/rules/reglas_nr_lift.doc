@@ -1,0 +1,80 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black;  ">rules</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">support</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">confidence</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">lift</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">count</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{sexo=M,edad=Adult,year_bins=[1980,1990)} => {region=SOUTH AFRICA}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.011</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.328</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.412</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">62</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{Type=Sea Disaster} => {region=other}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.013</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.36</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.361</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">77</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{Type=Unprovoked,sexo=F,region=USA,fatal=no} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.014</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.347</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.313</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">83</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{Type=Unprovoked,sexo=F,region=USA} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.015</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.335</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.193</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">85</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{sexo=F,region=USA,fatal=no} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.015</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.33</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.144</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">88</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{sexo=F,fatal=no,horario=PM} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.012</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.325</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.103</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">67</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{sexo=F,region=USA} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.016</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.307</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.931</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">90</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{sexo=F,horario=PM} => {edad=Young}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.012</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.304</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.904</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">70</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">{fatal=no,edad=Old} => {year_bins=[2010,2016]}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.011</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.356</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.746</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">62</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; border-bottom: double; ">{Type=Unprovoked,edad=Old} => {year_bins=[2010,2016]}</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.011</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.356</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">2.746</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">62</td>
+</tr>
+</table>
+

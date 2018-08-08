@@ -1,0 +1,31 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black;  ">sizes</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Freq</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">164</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">3</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">390</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">4</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">414</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">182</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">6</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">35</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; border-bottom: double; ">7</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">2</td>
+</tr>
+</table>
+

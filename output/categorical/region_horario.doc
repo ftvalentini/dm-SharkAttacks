@@ -1,0 +1,50 @@
+<table style="border-collapse:collapse; border:none;">
+ <tr>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; border-bottom:1px solid;" rowspan="2">region</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal;" colspan="2">horario</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; font-weight:bolder; font-style:italic; border-bottom:1px solid; " rowspan="2">Total</th>
+ </tr>
+ 
+<tr>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">AM</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">PM</td>
+ </tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">AUSTRALIA</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">144</span><br><span style="color:#333399;">36.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">247</span><br><span style="color:#333399;">63.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">391</span><br><span style="color:#333399;">100&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">other</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">120</span><br><span style="color:#333399;">33.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">243</span><br><span style="color:#333399;">66.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">363</span><br><span style="color:#333399;">100&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">SOUTH AFRICA</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">79</span><br><span style="color:#333399;">29&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">193</span><br><span style="color:#333399;">71&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">272</span><br><span style="color:#333399;">100&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">USA</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">299</span><br><span style="color:#333399;">30.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">696</span><br><span style="color:#333399;">69.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">995</span><br><span style="color:#333399;">100&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  border-bottom:double; font-weight:bolder; font-style:italic; text-align:left; vertical-align:middle;">Total</td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">642</span><br><span style="color:#333399;">31.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">1379</span><br><span style="color:#333399;">68.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">2021</span><br><span style="color:#333399;">100&nbsp;&#37;</span></td> 
+</tr>
+ <td style="text-align:right; font-size:0.9em; font-style:italic; padding:0.2cm;" colspan="4">&chi;<sup>2</sup>=7.184 &middot; df=3 &middot; Cramer's V=0.060 &middot; p=0.066</td> 
+</tr>
+ 
+</table>

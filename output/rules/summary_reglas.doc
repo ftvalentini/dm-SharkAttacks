@@ -1,0 +1,45 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black;  ">   support</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">  confidence</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">     lift</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">    count</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">Min.   :0.01042</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Min.   :0.3000</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Min.   : 0.3958</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Min.   :  21.0</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">1st Qu.:0.01488</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1st Qu.:0.5329</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1st Qu.: 0.9551</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1st Qu.:  30.0</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">Median :0.02480</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Median :0.7226</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Median : 1.0886</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Median :  50.0</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">Mean   :0.05688</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Mean   :0.6967</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Mean   : 1.2631</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Mean   : 114.7</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">3rd Qu.:0.05605</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3rd Qu.:0.8750</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3rd Qu.: 1.2090</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3rd Qu.: 113.0</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; border-bottom: double; ">Max.   :0.71032</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Max.   :1.0000</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Max.   :12.9885</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Max.   :1432.0</td>
+</tr>
+</table>
+
